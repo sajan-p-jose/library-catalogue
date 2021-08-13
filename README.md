@@ -7,12 +7,16 @@ How
 3. Download ESP8266  Flash download tool 
   https://www.espressif.com/sites/default/files/tools/flash_download_tool_v3.8.8_0.zip
 
-4.Flash all 4 file using Flash tool
+4.Flash all 4 files using Flash tool
 
 Memmory Map
+
 bootloader.bin  0x0000
+
 partitions.bin  0x8000
+
 program.bin     0x10000
+
 spiff.img       0x110000
 
 5. Connect your mobile to WiFi hotspot home.in
